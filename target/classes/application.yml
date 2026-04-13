@@ -1,0 +1,4 @@
+app:
+  user: '{"name":"Влад","salutation":"милорд"}'
+  expression:
+    max-length: 100
