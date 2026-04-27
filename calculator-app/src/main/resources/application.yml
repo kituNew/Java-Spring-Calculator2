@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: spring-calculator-hw4
+  messages:
+    basename: messages
+    encoding: UTF-8
+  shell:
+    interactive:
+      enabled: true
+
+app:
+  locale: ru
+  user: '{"name":"Влад","salutation":"милорд"}'
+  expression:
+    max-length: 100
+
+calculator:
+  io:
+    enabled: true
